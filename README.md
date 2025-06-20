@@ -5,6 +5,9 @@
     <td width="60%">
       <p>
         Welcome to <strong>Palak's dev journal</strong> — a growing collection of mini projects, experiments, and learnings in <strong>Web Development</strong>, <strong>AI/ML</strong>, and <strong>Software Engineering</strong>. <br><br>
+        
+        
+A creative technologist blending **design with development**. I’m passionate about clean UIs, intuitive user experiences, and building solutions that bridge creativity with code.<br><br>
         This repo is my personal sandbox to explore technologies, practice coding, and share cool stuff with the world 🌐✨
       </p>
     </td>
@@ -74,18 +77,26 @@
 
 ---
 
+## 🔍 Explore More
 
-## 👩‍💻 About Me
+Thanks for stopping by! 😊  
+If you found something interesting here or just want to explore my projects and experiments, feel free to dive in.
 
-**Palak Chandak**  
-A creative technologist blending **design with development**. I’m passionate about clean UIs, intuitive user experiences, and building solutions that bridge creativity with code.
+📌 I’m always open to learning, feedback, and collaboration —  
+so don’t hesitate to connect or reach out!
 
----
+<p align="center">
+  <a href="mailto:palak.chandak@somaiya.edu" target="_blank">
+    <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/palak-chandak-860b30303" target="_blank">
+    <img src="https://img.shields.io/badge/Connect on-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
 
-## 📫 Let's Connect!
+<p align="center">
+  <em>⭐️ Don't forget to check out my projects & leave a star if something inspires you!</em>
+</p>
 
-- **📧 Email:** palak.chandak@somaiya.edu  
-- **💼 LinkedIn:** [palak-chandak](https://www.linkedin.com/in/palak-chandak-860b30303)  
-- **🐙 GitHub:** [@palakchandak8](https://github.com/palakchandak8)
 
----

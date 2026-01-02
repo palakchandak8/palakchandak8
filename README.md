@@ -7,7 +7,7 @@
         Welcome to <strong>Palak's dev journal</strong> — a growing collection of mini projects, experiments, and learnings in <strong>Web Development</strong>, <strong>AI/ML</strong>, and <strong>Software Engineering</strong>. <br><br>
         
         
-A creative technologist blending **design with development**. I’m passionate about clean UIs, intuitive user experiences, and building solutions that bridge creativity with code.<br><br>
+A creative technologist blending **design with development**. I'm passionate about clean UIs, intuitive user experiences, and building solutions that bridge creativity with code.<br><br>
         This repo is my personal sandbox to explore technologies, practice coding, and share cool stuff with the world 🌐✨
       </p>
     </td>
@@ -21,21 +21,6 @@ A creative technologist blending **design with development**. I’m passionate a
 
 ## 🧠 Domains & Tools
 
-### 🌐 Web Development
-
-<p align="left">
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
-  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
-</p>
-
----
-
 ### 💻 Programming Languages
 
 <p align="left">
@@ -44,6 +29,36 @@ A creative technologist blending **design with development**. I’m passionate a
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
   <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🌐 Web Development
+
+<p align="left">
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></a>
+  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a>
+  <a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/></a>
+  <a href="https://jquery.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jQuery" width="40" height="40"/></a>
+</p>
+
+---
+
+### 📚 Frameworks / Libraries
+
+<p align="left">
+  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
+  <a href="https://opencv.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="OpenCV" width="40" height="40"/></a>
+  <a href="https://numpy.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/></a>
+  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
 </p>
 
 ---
@@ -61,18 +76,29 @@ A creative technologist blending **design with development**. I’m passionate a
 ### ☁️ Cloud & DevOps
 
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
   <a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="GCP" width="40" height="40"/></a>
+  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/></a>
 </p>
 
 ---
 
-### 🛠️ Tools & UI/UX
+### 📱 App Development
 
 <p align="left">
-  <a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40"/></a>
-  <a href="https://www.adobe.com/products/xd.html"><img src="https://img.icons8.com/color/48/adobe-xd.png" alt="Adobe XD" width="40" height="40"/></a>
-  <a href="https://www.canva.com/"><img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="40" height="40"/></a>
+  <a href="https://www.mathworks.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB GUI" width="40" height="40"/></a>
+</p>
+
+---
+
+### 🎨 Design Tools
+
+<p align="left">
+  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank"><img src="https://img.icons8.com/color/48/adobe-xd.png" alt="Adobe XD" width="40" height="40"/></a>
+  <a href="https://www.canva.com/" target="_blank"><img src="https://img.icons8.com/color/48/canva.png" alt="Canva" width="40" height="40"/></a>
+  <a href="https://www.autodesk.com/products/autocad/" target="_blank"><img src="https://img.icons8.com/color/48/autocad.png" alt="AutoCAD" width="40" height="40"/></a>
+  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
+  <a href="https://github.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/></a>
 </p>
 
 ---
@@ -82,10 +108,14 @@ A creative technologist blending **design with development**. I’m passionate a
 Thanks for stopping by! 😊  
 If you found something interesting here or just want to explore my projects and experiments, feel free to dive in.
 
-📌 I’m always open to learning, feedback, and collaboration —  
-so don’t hesitate to connect or reach out!
+📌 I'm always open to learning, feedback, and collaboration —  
+so don't hesitate to connect or reach out!
 
 <p align="center">
+  <a href="https://palak-chandak-portfolio.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-00C7B7?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+  &nbsp;
   <a href="mailto:palak.chandak@somaiya.edu" target="_blank">
     <img src="https://img.shields.io/badge/Email-Me-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
@@ -98,5 +128,3 @@ so don’t hesitate to connect or reach out!
 <p align="center">
   <em>⭐️ Don't forget to check out my projects & leave a star if something inspires you!</em>
 </p>
-
-
